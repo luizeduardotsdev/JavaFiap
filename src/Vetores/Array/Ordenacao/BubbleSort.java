@@ -1,4 +1,4 @@
-package Vetores.Array;
+package Vetores.Array.Ordenacao;
 
 public class BubbleSort {
     public static void main(String[] args) {

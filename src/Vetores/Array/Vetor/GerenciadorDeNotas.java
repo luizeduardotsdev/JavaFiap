@@ -1,4 +1,4 @@
-package Vetores.Array;
+package Vetores.Array.Vetor;
 
 import java.util.Scanner;
 
@@ -28,7 +28,7 @@ public class GerenciadorDeNotas {
             System.out.println("Aluno reprovado");
         }
 
-
+        input.close();
 
     }
 }

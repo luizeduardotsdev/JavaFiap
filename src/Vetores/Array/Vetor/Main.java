@@ -1,8 +1,8 @@
-package Vetores.Array;
+package Vetores.Array.Vetor;
 
 public class Main {
     public static void main(String[] args) {
-//        int[] meuVetor = new int [10];
+       // int[] meuVetor2 = new int [10];
         int[] meuVetor = {1, 10, 30, 40, 25 };
 
         meuVetor[2] = 35;

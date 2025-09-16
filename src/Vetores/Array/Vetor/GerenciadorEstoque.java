@@ -1,4 +1,4 @@
-package Vetores.Array;
+package Vetores.Array.Vetor;
 
 import java.util.Scanner;
 
@@ -37,6 +37,6 @@ public class GerenciadorEstoque {
             System.out.println("Produto nao encontrado");
         }
 
-
+        input.close();
     }
 }

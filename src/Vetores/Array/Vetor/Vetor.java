@@ -1,4 +1,4 @@
-package Vetores.Array;
+package Vetores.Array.Vetor;
 
 import java.util.Scanner;
 
@@ -19,6 +19,7 @@ public class Vetor {
             System.out.println(vetor[i]);
         }
 
+        sc.close();
 
     }
 }
